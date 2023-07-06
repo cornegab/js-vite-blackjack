@@ -7,3 +7,7 @@ Pasos para ejecutar proyecto:
 3. Correr el devServer ```npm run dev```
 4. Abrir proyecto desde url local dado.
 
+## Producción
+
+1. Ejecutar ```npm run build```.
+2. Tomar carpeta ```dist``` y desplegar.
